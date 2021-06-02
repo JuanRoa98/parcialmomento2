@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Parcialmomento2movil1</string>
+    <string name="registrado">Ya estas registrado?</string>
+    <string name="registrar">Registrate</string>
+    <string name="inicia">Inicia sesion</string>
+    <string name="contraseña">olvidaste tu contraseña</string>
+    <string name="cambiar">cambiar contraseña</string>
+    <string name="guardar">Guardar session</string>
+    <string name="contraseñacambiar">Cambiar contraseña</string>
+</resources>
